@@ -7,7 +7,7 @@ import PasswordInput from './InputsFields/PasswordInput'
 function Login() {
     return (
         <>
-        <div className='col-6 second-row brder'>
+        <div className='col-lg-6 col-sm-12 second-row brder'>
         <h2 className='text-center mt-5'> Login</h2>
         <hr/>
         <div className="rounded border p-3 ms-md-auto mt">
