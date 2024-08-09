@@ -4,12 +4,10 @@ function Nav() {
     return (
         <div className="row">
         <div className='row mb-5 mt-5'>
-            <div className='col-4'>
-                <h5>Basic React Login & Signup Page <br />Using Bootstrap</h5>
+            <div className='col-8'>
+                <h5>Basic React Login & Signup Applcation <br />Using Bootstrap</h5>
             </div>
-            <div className='col-4'>
-
-            </div>
+            
             <div className='col-4'>
                 <ul className="nav nav-tabs">
                     <li className="nav-item">
